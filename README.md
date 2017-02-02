@@ -19,5 +19,5 @@ Settings files:
 All settings are stored in json format. They are not part of the repository because they contain personal information.
   - local_settings.json: Information about the location of the archive, camera, and import folder
   - settings.json: Information about the directory structure inside the archive and library ids of the different seafile libraries
-  - server.json: Information about the seafile server. Address, login information.
+  - server.json: Information about the seafile server. URL, login information.
   
